@@ -34,22 +34,22 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ## Dashboard Screenshots
 
 ### Dashboard Home
-<img src="Images/dashboard_home.png" width="900">
+<img src="./Images/dashboard_home.png.jpg" width="900">
 
 ### Default Distribution
-<img src="Images/default_distribution.png" width="900">
+<img src="./Images/default_distribution.png.jpg" width="900">
 
 ### Income vs Loan Amount
-<img src="Images/income_loan_amount.png" width="900">
+<img src="./Images/income_loan_amount.png.jpg" width="900">
 
 ### Income vs Loan
-<img src="Images/income_vs_loan.png" width="900">
+<img src="./Images/income_vs_loan.png.jpg" width="900">
 
 ### System Overview
-<img src="Images/system_overview.png" width="900">
+<img src="./Images/system_overview.png.jpg" width="900">
 
 ### Total Loan
-<img src="Images/total_loan.png" width="900">
+<img src="./Images/total_loan.png.jpg" width="900">
 
 ## Project Structure
 
