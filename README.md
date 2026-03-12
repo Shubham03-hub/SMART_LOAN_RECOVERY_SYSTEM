@@ -4,7 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.24-orange?logo=streamlit)](https://streamlit.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Shubham03-hub/Smart-Loan-Recovery-System)
 
----
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -17,7 +16,6 @@
 8. [Results](#results)
 9. [Author](#author)
 
----
 
 ## Overview
 AI/ML system to predict loan default risk and recommend recovery strategies for financial institutions.
@@ -53,8 +51,6 @@ dashboard/ → Streamlit dashboard
 Images/ → screenshots for README
 
 
----
-
 ## Dashboard & Visuals
 
 ### Main Dashboard
@@ -66,12 +62,10 @@ Images/ → screenshots for README
 ### Recovery Strategy
 ![Recovery Strategy](Images/recovery_strategy.png)
 
----
 
 ## Results
 The system predicts borrower default risk and suggests appropriate recovery strategies.
 
----
 
 ## Author
 **Shubham Panchal**  
