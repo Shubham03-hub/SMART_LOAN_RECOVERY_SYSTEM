@@ -50,7 +50,7 @@ src/ → ML scripts
 models/ → trained model
 api/ → Flask API
 dashboard/ → Streamlit dashboard
-Images/ → screenshots for 
+Images/ → screenshots for README
 
 
 ---
