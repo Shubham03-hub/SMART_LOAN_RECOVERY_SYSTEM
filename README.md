@@ -30,8 +30,6 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 5. **Recovery Strategies** – Recommend actions based on risk levels  
 6. **Visualization** – Display insights via an interactive dashboard  
 
-## Dashboard Screenshots
-
 ### Dashboard Home
 <img src="./Images/dashboard_home.png" width="900">
 
@@ -50,17 +48,16 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ### Total Loan
 <img src="./Images/total_loan.png" width="900">
 
----
 
-## Folder Structure
-SMART_LOAN_RECOVERY_SYSTEM│
-├── Images│   
-├── dashboard_home.png│   
-├── default_distribution.png│   
-├── income_loan_amount.png│   
-├── income_vs_loan.png│   
-├── system_overview.png│   
-└── total_loan.png
+SMART_LOAN_RECOVERY_SYSTEM
+│
+├── Images
+│   ├── dashboard_home.png
+│   ├── default_distribution.png
+│   ├── income_loan_amount.png
+│   ├── income_vs_loan.png
+│   ├── system_overview.png
+│   └── total_loan.png
 │
 ├── api
 ├── dashboard
