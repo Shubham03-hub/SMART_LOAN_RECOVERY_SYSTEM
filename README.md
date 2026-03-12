@@ -33,16 +33,14 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ## Project Structure
 SMART_LOAN_RECOVERY_SYSTEM
 │
-├── data/
-├── src/
-├── models/
-├── api/
-├── dashboard/
-├── Images/
-├── notebook/
-├── sql/
-├── database/
-├── main.py
+├── Images
+│    ├── dashboard_home.png
+│    ├── default_distribution.png
+│    ├── income_loan_amount.png
+│    ├── income_vs_loan.png
+│    ├── system_overview.png
+│    └── total_loan.png
+│
 └── README.md
 
 
