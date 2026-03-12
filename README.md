@@ -42,10 +42,15 @@ Images/
 # SMART LOAN RECOVERY SYSTEM
 
 ![Dashboard](Images/dashboard_# SMART LOAN RECOVERY SYSTEM.png)
+
 ![Dashboard](Images/dashboard_DEFAULT DISTRIBUTION.png)
+
 ![Dashboard](Images/dashboard_INCOME & LOAN AMOUNT.png)
+
 ![Dashboard](Images/dashboard_INCONE VS LOAN AMOUNT.png)
+
 ![Dashboard](Images/dashboard_SMART LOAN RECOVERY SYSTEM.png)
+
 ![Dashboard](Images/dashboard_TOTAL LOAN.png)
 
 ## Outcome
