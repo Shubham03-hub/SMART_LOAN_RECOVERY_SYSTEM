@@ -1,74 +1,47 @@
 # Smart Loan Recovery System
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.24-orange?logo=streamlit)](https://streamlit.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Shubham03-hub/Smart-Loan-Recovery-System)
-
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Objective](#objective)
-3. [Tech Stack](#tech-stack)
-4. [Features](#features)
-5. [Workflow](#workflow)
-6. [Project Structure](#project-structure)
-7. [Dashboard & Visuals](#dashboard--visuals)
-8. [Results](#results)
-9. [Author](#author)
-
-
 ## Overview
-AI/ML system to predict loan default risk and recommend recovery strategies for financial institutions.
+The **Smart Loan Recovery System** leverages machine learning to predict borrowers who might default on their loans. It also provides actionable recovery strategies to help banks and financial institutions minimize losses and recover funds more efficiently.
 
 ## Objective
-Identify high-risk borrowers and suggest recovery actions to minimize financial losses.
+The main goal of this project is to **identify high-risk borrowers early** and suggest effective recovery actions, enabling lenders to improve loan recovery success.
 
 ## Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- SQL
-- Flask
-- Streamlit
+- **Python** – core programming language
+- **Pandas** – data manipulation and analysis
+- **Scikit-learn** – machine learning modeling
+- **SQL** – data querying and analysis
+- **Flask** – API development
+- **Streamlit** – interactive dashboard for visualization
 
 ## Features
-- Loan default prediction using ML
-- Risk scoring system
-- Recovery strategy recommendation
-- SQL loan data analysis
-- Interactive Streamlit dashboard
-- Flask API for predictions
+- Predicts loan default probability for each borrower
+- Generates a **risk score** for prioritization
+- Suggests **customized recovery strategies**
+- Performs loan data analysis with SQL
+- Interactive dashboard via Streamlit
+- Flask API for programmatic predictions
 
-## Workflow
-**Data Collection → Data Cleaning → Feature Engineering → Model Training → Risk Scoring → Recovery Strategy → Dashboard**
+## How It Works
+1. **Data Collection & Cleaning** – Prepare the loan dataset  
+2. **Feature Engineering** – Create relevant features to improve predictions  
+3. **Model Training** – Train machine learning models for default prediction  
+4. **Risk Scoring** – Assign a risk score to each borrower  
+5. **Recovery Strategies** – Recommend actions based on risk levels  
+6. **Visualization** – Display insights via an interactive dashboard
 
 ## Project Structure
-data/ → dataset
-src/ → ML scripts
-models/ → trained model
-api/ → Flask API
-dashboard/ → Streamlit dashboard
-Images/ → screenshots for README
+SMART_LOAN_RECOVERY_SYSTEM/
+data/
+src/
+models/
+api/
+dashboard/
+Images/
 
+## Outcome
+The system helps banks and lenders **predict defaults**, prioritize recovery actions, and streamline the loan recovery process.
 
-## Dashboard & Visuals
-
-### Main Dashboard
-![Main Dashboard](Images/dashboard_main.png)
-
-### Risk Scoring
-![Risk Scoring](Images/risk_scoring.png)
-
-### Recovery Strategy
-![Recovery Strategy](Images/recovery_strategy.png)
-
-
-## Results
-The system predicts borrower default risk and suggests appropriate recovery strategies.
-
-
-## Author
-**Shubham Panchal**  
-Aspiring Data Scientist  
-
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Shubham03-hub)
+## About Me
+**Shubham Panchal** – Aspiring Data Scientist | Focused on Machine Learning, AI, and Data-Driven Solutions
+[LinkedIn Profile](https://www.linkedin.com/in/shubham-panchal-a100282a8/)  
