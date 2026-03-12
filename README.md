@@ -30,6 +30,7 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 5. **Recovery Strategies** – Recommend actions based on risk levels  
 6. **Visualization** – Display insights via an interactive dashboard  
 
+
 ## Dashboard Screenshots
 
 ### Dashboard Home
@@ -50,20 +51,20 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ### Total Loan
 <img src="Images/total_loan.png" width="900">
 
+## Project Structure
+SMART_LOAN_RECOVERY_SYSTEM
+│
+├── Images
+│    ├── dashboard_home.png
+│    ├── default_distribution.png
+│    ├── income_loan_amount.png
+│    ├── income_vs_loan.png
+│    ├── system_overview.png
+│    └── total_loan.png
+│
+└── README.md
 
-## Dashboard Screenshots
 
-![Dashboard Home](Images/dashboard_home.png)
-
-![Default Distribution](Images/default_distribution.png)
-
-![Income vs Loan Amount](Images/income_loan_amount.png)
-
-![Income vs Loan](Images/income_vs_loan.png)
-
-![System Overview](Images/system_overview.png)
-
-![Total Loan](Images/total_loan.png)
 
 ## Outcome
 This system helps banks and lenders **predict defaults, prioritize recovery actions, and streamline the loan recovery process** using data-driven insights.
