@@ -7,12 +7,12 @@ The **Smart Loan Recovery System** leverages machine learning to predict borrowe
 The goal of this project is to **identify high-risk borrowers early** and recommend effective recovery actions so lenders can improve loan recovery success.
 
 ## Tech Stack
-- **Python** – core programming language  
-- **Pandas** – data manipulation and analysis  
-- **Scikit-learn** – machine learning modeling  
-- **SQL** – data querying and analysis  
+- **Python** – Core programming language  
+- **Pandas** – Data manipulation and analysis  
+- **Scikit-learn** – Machine learning modeling  
+- **SQL** – Data querying and analysis  
 - **Flask** – API development  
-- **Streamlit** – interactive dashboard for visualization  
+- **Streamlit** – Interactive dashboard for visualization  
 
 ## Features
 - Predicts loan default probability for each borrower  
@@ -29,7 +29,6 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 4. **Risk Scoring** – Assign a risk score to each borrower  
 5. **Recovery Strategies** – Recommend actions based on risk levels  
 6. **Visualization** – Display insights via an interactive dashboard  
-
 
 ## Dashboard Screenshots
 
@@ -51,16 +50,17 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ### Total Loan
 <img src="./Images/total_loan.png" width="900">
 
+---
 
-SMART_LOAN_RECOVERY_SYSTEM
-│
-├── Images
-│   ├── dashboard_home.png
-│   ├── default_distribution.png
-│   ├── income_loan_amount.png
-│   ├── income_vs_loan.png
-│   ├── system_overview.png
-│   └── total_loan.png
+## Folder Structure
+SMART_LOAN_RECOVERY_SYSTEM│
+├── Images│   
+├── dashboard_home.png│   
+├── default_distribution.png│   
+├── income_loan_amount.png│   
+├── income_vs_loan.png│   
+├── system_overview.png│   
+└── total_loan.png
 │
 ├── api
 ├── dashboard
@@ -74,8 +74,6 @@ SMART_LOAN_RECOVERY_SYSTEM
 ├── loan_database.db
 ├── main.py
 └── README.md
-```
-
 
 
 ## Outcome
