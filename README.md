@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Loan Recovery System
 
 ## Overview
@@ -39,3 +40,7 @@ The system predicts borrower default risk and suggests appropriate recovery stra
 ## Author
 Shubham Panchal
 Aspiring Data Scientist
+=======
+# Smart-Loan-Recovery-System
+AI/ML system for predicting loan default risk and recommending recovery strategies.
+>>>>>>> 25d2174f91001c87d59ccf3d854606880cf4b4a6
