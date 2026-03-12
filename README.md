@@ -41,6 +41,7 @@ Images/
 
 # SMART LOAN RECOVERY SYSTEM
 
+<<<<<<< HEAD
 ## Dashboard Screenshots
 
 ![Dashboard](Images/dashboard_home.png)
@@ -54,6 +55,19 @@ Images/
 ![System Overview](Images/system_overview.png)
 
 ![Total Loan](Images/total_loan.png)
+=======
+![Dashboard](Images/dashboard_# SMART LOAN RECOVERY SYSTEM.png)
+
+![Dashboard](Images/dashboard_DEFAULT DISTRIBUTION.png)
+
+![Dashboard](Images/dashboard_INCOME & LOAN AMOUNT.png)
+
+![Dashboard](Images/dashboard_INCONE VS LOAN AMOUNT.png)
+
+![Dashboard](Images/dashboard_SMART LOAN RECOVERY SYSTEM.png)
+
+![Dashboard](Images/dashboard_TOTAL LOAN.png)
+>>>>>>> db05d5f22d66c3f9a2ab11a7a030323f530e7a40
 
 ## Outcome
 The system helps banks and lenders **predict defaults**, prioritize recovery actions, and streamline the loan recovery process.
