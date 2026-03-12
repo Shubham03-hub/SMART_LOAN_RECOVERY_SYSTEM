@@ -30,20 +30,25 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 5. **Recovery Strategies** – Recommend actions based on risk levels  
 6. **Visualization** – Display insights via an interactive dashboard  
 
-## Project Structure
-SMART_LOAN_RECOVERY_SYSTEM
-│
-├── data/
-├── src/
-├── models/
-├── api/
-├── dashboard/
-├── Images/
-├── notebook/
-├── sql/
-├── database/
-├── main.py
-└── README.md
+## Dashboard Screenshots
+
+### Dashboard Home
+<img src="Images/dashboard_home.png" width="900">
+
+### Default Distribution
+<img src="Images/default_distribution.png" width="900">
+
+### Income vs Loan Amount
+<img src="Images/income_loan_amount.png" width="900">
+
+### Income vs Loan
+<img src="Images/income_vs_loan.png" width="900">
+
+### System Overview
+<img src="Images/system_overview.png" width="900">
+
+### Total Loan
+<img src="Images/total_loan.png" width="900">
 
 
 ## Dashboard Screenshots
