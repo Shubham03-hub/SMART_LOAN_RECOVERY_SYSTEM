@@ -49,29 +49,30 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 ![Total Loan](Images/total_loan.jpg)
 
 
-SMART_LOAN_RECOVERY_SYSTEM
+## Project Structure
+
+SMART_LOAN_RECOVERY_SYSTEM/
 │
-├── Images
-│   ├── dashboard_home.png
-│   ├── default_distribution.png
-│   ├── income_loan_amount.png
-│   ├── income_vs_loan.png
-│   ├── system_overview.png
-│   └── total_loan.png
+├── Images/
+│   ├── dashboard_home.jpg
+│   ├── default_distribution.jpg
+│   ├── income_loan_amount.jpg
+│   ├── income_vs_loan.jpg
+│   ├── system_overview.jpg
+│   └── total_loan.jpg
 │
-├── api
-├── dashboard
-├── data
-├── database
-├── models
-├── notebook
-├── sql
-├── src
+├── api/
+├── dashboard/
+├── data/
+├── database/
+├── models/
+├── notebook/
+├── sql/
+├── src/
 │
 ├── loan_database.db
 ├── main.py
 └── README.md
-
 
 ## Outcome
 This system helps banks and lenders **predict defaults, prioritize recovery actions, and streamline the loan recovery process** using data-driven insights.
