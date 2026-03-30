@@ -31,22 +31,22 @@ The goal of this project is to **identify high-risk borrowers early** and recomm
 6. **Visualization** – Display insights via an interactive dashboard  
 
 ### Dashboard Home
-<img src="./Images/dashboard_home.png" width="900">
+![Dashboard Home](Images/dashboard_home.jpg)
 
-### Default Distribution
-<img src="./Images/default_distribution.png" width="900">
+## Default Distribution
+![Default Distribution](Images/default_distribution.jpg)
 
-### Income vs Loan Amount
-<img src="./Images/income_loan_amount.png" width="900">
+## Income vs Loan Amount
+![Income vs Loan Amount](Images/income_loan_amount.jpg)
 
-### Income vs Loan
-<img src="./Images/income_vs_loan.png" width="900">
+## Income vs Loan
+![Income vs Loan](Images/income_vs_loan.jpg)
 
-### System Overview
-<img src="./Images/system_overview.png" width="900">
+## System Overview
+![System Overview](Images/system_overview.jpg)
 
-### Total Loan
-<img src="./Images/total_loan.png" width="900">
+## Total Loan
+![Total Loan](Images/total_loan.jpg)
 
 
 SMART_LOAN_RECOVERY_SYSTEM
